@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zitong Wang"
-  avatar           : "files/avatar.png"
+  avatar           : "avatar.png"
   bio              : "Hi, I am a Ph.D. student in Control Science and Engineering~"
   location         : "Shanghai, China"
   employer         :
