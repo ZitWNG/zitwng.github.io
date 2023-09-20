@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zitong Wang"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "files/avatar.png"
+  bio              : "Hi, I am a Ph.D. student in Control Science and Engineering~"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zitongw/"
+  linkedin         : "zitongw"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
