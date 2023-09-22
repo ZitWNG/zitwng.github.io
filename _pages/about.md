@@ -12,4 +12,4 @@ I am currently pursuing the Ph.D. degree in Control Science and Engineering at t
 
 My research interests include robotics, cooperative control, and distributed optimization in multi-agent systems.
 
-
+If you want learn more about me, feel free to contact with me! My Email is wangzitong@sjtu.edu.cn.
