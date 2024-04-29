@@ -41,6 +41,9 @@ Honors & Achievements
 
 Activities
 ======
+* Teaching Assistant of AU7036: Introduction to Multi-Agent Systems, Spring, 2024
+* Peer Reviewer of KSII Transactions on Internet and Information Systems
+* Peer Reviewer of IEEE CAC, CCSICC
 * Vice President of SJTU Wushu Association, 2018-2019
 * Member of Student Union of SEIEE, 2017-2018
 
@@ -48,7 +51,8 @@ Activities
 Skills
 ======
 * MATLAB
-* Machine Learning
+* python
+* ROS
 * Languages
   * Chinese
   * English
