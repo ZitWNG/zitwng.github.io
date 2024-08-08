@@ -30,7 +30,7 @@ Education
 
 Honors & Achievements
 ======
-* Outstanding Graduates of Shanghai, SJTU (Top 2%), 2020.
+* Outstanding Graduates of SJTU (Top 15%), 2020.
 * Awarded First Prize of TI Cup 2019 National Undergraduate Electronics Design Contest, 2019
 * Awarded First Prize of women's Qiangshu and Second Prize of women's Yang-Style 32-Form Taijijian in Shanghai College Student Wushu Championship, 2019
 * Awarded Second Prize of China Undergraduate Mathematical Contest in Modeling, 2019
@@ -51,7 +51,7 @@ Activities
 Skills
 ======
 * MATLAB
-* python
+* Python
 * ROS
 * Languages
   * Chinese
