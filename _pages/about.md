@@ -15,6 +15,12 @@ My research interests include robotics, cooperative control, and distributed opt
 If you want learn more about me, feel free to contact with me! My Email is [wangzitong@sjtu.edu.cn](mailto:wangzitong@sjtu.edu.cn).
 
 ## Selected Projects
+### Topology-Preserving Cooperative Control for Multi-Agent Systems in Adversarial Environments
+![TPMC](/images/TPMC.png)
+
+### Mobile Robotic Testbed with Omni-Directional Robots
+
+
 ### Stochastic Trajectory Optimization for Demonstration Imitation
-[![STODI](/images/STODI.png "Stochastic Trajectory Optimization for Demonstration Imitation")](https://ming-bot.github.io/STODI.github.io/)
+[![STODI](/images/STODI.png)](https://ming-bot.github.io/STODI.github.io/)
 
