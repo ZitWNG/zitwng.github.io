@@ -6,3 +6,5 @@ collection: portfolio
 ---
 
 Plumbago auriculata is my favorite flower now! It is gorgeous in the sunshine!
+
+![ ](/images/Plumbago auriculata.jpg=600x)

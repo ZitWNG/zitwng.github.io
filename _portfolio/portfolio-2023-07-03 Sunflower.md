@@ -7,6 +7,4 @@ collection: portfolio
 
 I planted this sunflower in May, and it was in full bloom in July.
 
-<div align="center">
-<img src=https:///images/sunflower.jpg />
-</div>
+![ ](/images/sunflower.jpg=600x)

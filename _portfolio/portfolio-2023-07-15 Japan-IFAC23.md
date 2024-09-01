@@ -7,4 +7,4 @@ collection: portfolio
 
 I attended the IFAC World Congress 2023 in Yokohama, Japan, and presented my work entitled "Learning-based Optimal Control for Linear Systems with Model Uncertainties".
 
-![在这里插入图片描述](/images/Japan-IFAC23.jpg)
+![ ](/images/Japan-IFAC23.jpg=600x)
