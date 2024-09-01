@@ -7,4 +7,4 @@ collection: portfolio
 
 I attended the 62nd IEEE Conference on Decision and Control (CDC 2023) in Singapore, and presented my work entitled "Topology-Preserving Second-Order Consensus: A Strategic Compensation Approach".
 
-![ ](/images/Singapore-CDC23.jpg=600x)
+![ ](/images/Singapore-CDC23.jpg =600x)

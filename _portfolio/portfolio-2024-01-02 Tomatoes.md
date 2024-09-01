@@ -7,4 +7,4 @@ collection: portfolio
 
 This is my first time growing tomatoes. Over nine months, the tomatoes grew from seeds into seedlings and eventually produced fruits, which taste quite good!
 
-![ ](/images/tomatoes.jpg=600x)
+![abc](/images/tomatoes.jpg=600x)
