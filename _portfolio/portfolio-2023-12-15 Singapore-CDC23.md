@@ -1,6 +1,7 @@
 ---
 title: "Singapore-CDC23"
-excerpt: "I attended CDC 2023 in Singapore. <br/><img src='/images/Singapore-CDC23.jpg'>"
+date: 2023-12-15
+excerpt: "I attended CDC 2023 in Singapore. <br/><img src='/images/Singapore-CDC23.jpg' width = '600'>"
 collection: portfolio
 ---
 
