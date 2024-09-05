@@ -16,10 +16,10 @@ If you want learn more about me, feel free to contact with me! My Email is [wang
 
 ## Selected Projects
 ### Topology-Preserving Cooperative Control for Multi-Agent Systems in Adversarial Environments
-![TPMC](/images/TPMC.png)
+[![TPMC](/images/TPMC.png)](https://zitwng.github.io/topology-preservation/)
 
 ### Mobile Robotic Testbed with Omni-Directional Robots
-
+![TPMC](/images/localization.png)
 
 ### Stochastic Trajectory Optimization for Demonstration Imitation
 [![STODI](/images/STODI.png)](https://ming-bot.github.io/STODI.github.io/)
