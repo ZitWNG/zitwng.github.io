@@ -30,6 +30,7 @@ Education
 
 Honors & Achievements
 ======
+* Awarded Excelent Graduate Scholarship of SJTU, 2023-2024.
 * Outstanding Graduates of SJTU (Top 15%), 2020.
 * Awarded First Prize of TI Cup 2019 National Undergraduate Electronics Design Contest, 2019
 * Awarded First Prize of women's Qiangshu and Second Prize of women's Yang-Style 32-Form Taijijian in Shanghai College Student Wushu Championship, 2019
@@ -41,21 +42,21 @@ Honors & Achievements
 
 Activities
 ======
+* Invited Talk at Central South University, Changsha, China, March 2025.
+* Invited Talk at National University of Defence Technology, Changsha, China, March 2025.
 * Teaching Assistant of AU7036: Introduction to Multi-Agent Systems, Spring, 2024
-* Peer Reviewer of KSII Transactions on Internet and Information Systems
-* Peer Reviewer of IEEE CAC, CCSICC
+* Invited Talk at East China University of Science and Technology, Shanghai, China, July 2023.
+* Peer Reviewer of KSII Transactions on Internet and Information Systems, IEEE Open Journal of Vehicular Technology
+* Peer Reviewer of IEEE CDC, IEEE CAC, CCSICC
 * Vice President of SJTU Wushu Association, 2018-2019
 * Member of Student Union of SEIEE, 2017-2018
 
 
 Skills
 ======
-* MATLAB
-* Python
-* ROS
-* Languages
-  * Chinese
-  * English
+* Programming Languages: MATLAB, Python, and C++
+* Languages: Chinese, English
+* Other Skills: ROS
 
 
 Publications
